@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VoiceBasedCalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0282AF</item>
+        <item name="colorPrimaryVariant">#4BB5E6</item>
+        <item name="colorOnPrimary">#B9CEDC</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#9CB0BD</item>
+        <item name="colorSecondaryVariant">#687C88</item>
+        <item name="colorOnSecondary">#74CEFB</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
